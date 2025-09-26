@@ -2,12 +2,7 @@
 
 Interested in hardware and coding such as C, C++ and Python.
 
-- 📫 How to reach me:
-  
-    Facebook: https://www.facebook.com/khang.ang.270801
-  
-    Gmail: khang.dang1809@hcmut.edu.vn or dangthaikhang34@gmail.com
-
+Not much here, but i will update more in the future.
 
 
 <!--
