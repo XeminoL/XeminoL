@@ -1,19 +1,21 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2dHcwd25rZTVnM3plc3h6NDdiamU4NDQzcDM5aXNtb2w4dWV5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Banner GIF" width="300" />
+
+  <h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
+WELCOME!
+</h1>
 </div>
 
 
-<div align="center">
-
-<h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
-WELCOME!
-</h1>
+<img align="right" src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Hacker Style" width="180"/>
 
 I'm interested in hardware and coding such as C, C++ and Python.  
 
 Not much here, but I will update more in the future.  
 
 (⌐■_■) 🇻🇳  
+
+<div align="center">
 
 ---
 
