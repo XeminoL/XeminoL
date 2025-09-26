@@ -1,5 +1,4 @@
 ## 
-
 Interested in hardware and coding such as C, C++ and Python.
 
 Not much here, but i will update more in the future.
