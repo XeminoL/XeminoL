@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner GIF" width="100%" />
+</div>
+
+
+<div align="center">
 
 <h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
 WELCOME!
