@@ -4,6 +4,8 @@ Interested in hardware and coding such as C, C++ and Python.
 
 Not much here, but i will update more in the future.
 
+(⌐■_■)
+
 
 <!--
 **XeminoL/XeminoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
