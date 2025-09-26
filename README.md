@@ -11,9 +11,7 @@ WELCOME!
 
 I'm interested in hardware and coding such as C, C++ and Python.  
 
-Not much here, but I will update more in the future.  
-
-
+Not much here, but I will update more in the future.<br><br>
 
 <div align="center">
 (⌐■_■) 🇻🇳  
