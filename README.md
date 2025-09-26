@@ -7,7 +7,7 @@ WELCOME!
 </div>
 
 
-<img align="right" src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Hacker Style" width="180"/>
+<img align="right" src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Hacker Style" width="160"/>
 
 I'm interested in hardware and coding such as C, C++ and Python.  
 
