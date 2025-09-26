@@ -1,10 +1,10 @@
 <h1 align="center" style="font-size:18px; color:#7FFF00; font-weight:bold;">
-HELLO!
+HELLO
 </h1>
 
 I'm interested in hardware and coding such as C, C++ and Python. 
 
-Not much here, but i will update more in the future. 
+Not much here, but I will update more in the future. 
 
 (⌐■_■) 🇻🇳
 
