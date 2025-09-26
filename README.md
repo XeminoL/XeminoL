@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Khang
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+
+Interested in hardware and coding such as C, C++ and Python. 
+
+Not much here, but i will update more in the future. 
+
+(⌐■_■) 🇻🇳
+
 ==============================================================================================================================
 
 * 🌍  I'm based in Viet Nam
