@@ -8,7 +8,7 @@ WELCOME!
 
 I'm interested in hardware and coding such as C, C++ and Python.  
 
-Not much here, but I will update more in the future.
+Always looking for new opportunity and improve my skills.
 
 (⌐■_■) 🇻🇳  
 
