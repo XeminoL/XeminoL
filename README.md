@@ -30,7 +30,7 @@ Always looking for new opportunity and improve my skills.
 
 ---
 
-### My socials:
+### My Socials:
 
 <p> 
 <a href="https://www.x.com/kdangg18" target="_blank" rel="noreferrer">
