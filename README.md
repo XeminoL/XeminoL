@@ -2,7 +2,7 @@
   <img src="pics/bk_name_en.png" alt="GitHub Banner" width="90%" />
 
   <h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
-👋 Hello! My name is Khang.
+👋 Hello! My name is Khang
 </h1>
 
 📚 I’m currently studying Computer Engineering at Bach Khoa University and aiming to become an IoT engineer.
