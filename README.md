@@ -70,7 +70,6 @@ Hello! My name is Khang, a CE student 👋🏼
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eaxu55pavs65g5etfzxyhhz5xy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eaxu55pavs65g5etfzxyhhz5xy&redirect=true)
 
-
 ![snake gif](https://github.com/XeminoL/XeminoL/blob/output/github-snake-dark.svg)
 
 </div>
