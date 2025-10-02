@@ -8,7 +8,7 @@ Hello! My name is Khang, a CE student 👋🏼
 
 💻 I'm interested in hardware and coding such as C, C++ and Python.  
 
-Always looking for new opportunity and improve my skills.
+📄 Always looking for new opportunity and improve my skills.
 
 (⌐■_■) 🇻🇳  
 
