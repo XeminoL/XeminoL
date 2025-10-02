@@ -2,13 +2,14 @@
   <img src="pics/bk_name_en.png" alt="GitHub Banner" width="90%" />
 
   <h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
-Hello! My name is Khang, a CE student 👋🏼
+👋 Hello! My name is Khang.
 </h1>
 
+📚 I’m currently studying Computer Engineering at Bach Khoa University and aiming to become an IoT engineer.
 
-💻 I'm interested in hardware and coding such as C, C++ and Python.  
+💻 I’m passionate about hardware and programming, especially in C, C++, and Python.
 
-📄 Always looking for new opportunity and improve my skills.
+🚀 I’m always eager to explore new opportunities and continuously improve my skills.
 
 (⌐■_■) 🇻🇳  
 
