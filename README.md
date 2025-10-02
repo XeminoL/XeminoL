@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2dHcwd25rZTVnM3plc3h6NDdiamU4NDQzcDM5aXNtb2w4dWV5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Banner GIF" width="320" />
+  <img src="pics/bk_name_en.png" alt="GitHub Banner" width="90%" />
 
   <h1 style="font-size:18px; color:#7FFF00; font-weight:bold;">
 Hello! My name is Khang, a CE student 👋🏼
