@@ -10,43 +10,14 @@
 ~/khang $ cat stack.txt
 
   languages        Python, JavaScript, HTML, CSS
-  cloud            AWS (Lambda, S3, DynamoDB, API Gateway, Cognito)
-  ai               Bedrock, Rekognition, Textract, Word2Vec, KMeans
-  tools            Flask, Hugo, NumPy, scikit-learn, OR-Tools
+  cloud            AWS 
+  tools            Flask, Hugo
 
 ~/khang $ ls projects/
   insightshare/    serverless document assistant on AWS
   slotwise/        picks warehouse storage locations from order history
 ```
 
-<br/>
-
-### insightshare
-
-Capstone for the First Cloud AI Journey internship at AWS Vietnam. Upload an image or
-PDF and it becomes searchable: Rekognition labels images, Textract pulls text out of
-documents, and Bedrock answers questions about what it read. Files sit in a private S3
-bucket and move through short-lived presigned URLs.
-
-One Python Lambda behind API Gateway, Cognito for sign-in, DynamoDB for metadata,
-ap-southeast-1. This repo holds the workshop that walks through building it.
-
-[repo](https://github.com/XeminoL/InsightShare) &middot; [workshop](https://xeminol.github.io/InsightShare/) &middot; [demo](https://insightshare.dangthaikhang34.workers.dev/)
-
-### slotwise
-
-A warehouse keeps reserve stock upstairs in zone R and picking stock downstairs in
-zone A. When A runs low, a forklift brings a pallet down. Slotwise reads the order log
-and decides which R aisle an incoming item belongs in, so those trips stay short.
-
-Score is `0.6 x near_refill_target + 0.4 x near_companions`. The first half uses the
-median of the item's zone A cluster, since travel is measured in L1 and the median is
-what minimizes it. The second half comes from Word2Vec over the order log, treating
-each order as a sentence, to keep items that ship together stored together.
-
-Flask, gensim, scikit-learn, UMAP. The heuristic is checked against OR-Tools CP-SAT.
-
-[repo](https://github.com/XeminoL/slotwise)
 
 <br/>
 
