@@ -22,5 +22,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/XeminoL/profile-readme/blob/output/github-snake-dark.svg" alt="contribution snake" width="88%" />
+  <img src="https://github.com/XeminoL/XeminoL/blob/output/github-snake-dark.svg" alt="contribution snake" width="88%" />
 </div>
