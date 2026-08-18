@@ -9,11 +9,12 @@
 ```console
 ~/khang $ cat stack.txt
 
-  languages        Python, JavaScript, HTML, CSS
-  cloud            AWS 
+  languages        Python, JavaScript, C, HTML, CSS
+  cloud            AWS
   tools            Flask, Hugo
 
 ~/khang $ ls projects/
+  benchmeter/      tells a real speedup from measurement noise
   insightshare/    serverless document assistant on AWS
   slotwise/        picks warehouse storage locations from order history
 ```
