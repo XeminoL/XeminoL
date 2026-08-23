@@ -14,7 +14,6 @@
   tools            Flask, Hugo
 
 ~/khang $ ls projects/
-  benchmeter/      tells a real speedup from measurement noise
   insightshare/    serverless document assistant on AWS
   slotwise/        picks warehouse storage locations from order history
 ```
