@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&pause=1400&color=7EE787&center=true&vCenter=true&width=560&height=60&lines=Dang+Thai+Khang;Computer+Engineering+%40+HCMUT" alt="Dang Thai Khang" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&pause=1400&color=79C0FF&center=true&vCenter=true&width=560&height=60&lines=Dang+Thai+Khang;Computer+Engineering+%40+HCMUT" alt="Dang Thai Khang" />
 
 </div>
 
