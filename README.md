@@ -11,9 +11,10 @@
 
   languages        Python, JavaScript, C, HTML, CSS
   cloud            AWS
-  tools            Flask, Hugo
+  tools            Flask, Hugo, Docker, Asterisk
 
 ~/khang $ ls projects/
+  voice-agent/     Vietnamese phone agent, no cloud, no GPU
   insightshare/    serverless document assistant on AWS
   slotwise/        picks warehouse storage locations from order history
 ```
