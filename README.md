@@ -9,7 +9,7 @@
 ```console
 ~/khang $ cat stack.txt
 
-  languages        Python, JavaScript, C, HTML, CSS
+  languages        Python, JavaScript, HTML, CSS
   cloud            AWS
   tools            Flask, Hugo, Docker, Asterisk
 
