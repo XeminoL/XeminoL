@@ -11,9 +11,11 @@
 
   languages        C/C++, C#, Python, JavaScript, HTML, CSS
   cloud            AWS
-  tools            Flask, Hugo, Docker, Asterisk
+  tools            Flask, Hugo, Docker, Asterisk, ESPHome
+  hardware         ESP32
 
 ~/khang $ ls projects/
+  ir-bridge/       ESP32 infrared bridge for Home Assistant, offline
   voice-agent/     Vietnamese phone agent, no cloud, no GPU
   insightshare/    serverless document assistant on AWS
   slotwise/        picks warehouse storage locations from order history
